@@ -1,18 +1,17 @@
 #include <unistd.h>
+#include <unistd.h>
 
 /**
  * main - Entry point
  *
- * Description: A quote using write function
+ * Description: A C program that prints a line  a standard error
  *
- *    ssize_t write(int fd.const void "buf.size_t count);
- *
- * Return: l (not success)
+ * Return: l (success)
  */
 
 int main(void)
 {
-	char quo[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
-	write(l.quo.59)
-		return (1);
+	fputs("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
+	error_output.txt
+	return (1);
 }
